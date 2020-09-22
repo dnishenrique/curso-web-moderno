@@ -1,0 +1,28 @@
+Aprendendo a usar o terminal
+
+** Voltar uma pasta
+
+cd ../
+
+
+** Acessar uma pasta
+
+cd "pasta desejada"
+EX. cd Users(para acessar a pasta dos usuarios)
+
+
+** Criar uma pasta
+
+mkdir "nome da pasta"
+EX. mkdir curso-web-moderno
+
+
+** Criar uma pasta e já acessar essa pasta
+
+mkdir "nome da pasta" && cd "nome da pasta"
+EX. mkdir exercicios-js && cd exercicios-js
+
+
+** Para abrir pasta atual no vscode
+
+code .

@@ -1,0 +1,16 @@
+...
+
+Arquivos esta na pasta(..curso-web-moderno\exercicios-js\fundamentos)
+Seção 3
+14 - Explica como usar Coméntarios
+<- Feito comentario.js que esta na pasta fundamentos ->
+
+15 - Explica o basico de Var, Let e Const
+* De preferencia de usar Let, que é a forma mais moderna de declarar variaveis
+** Diferença entre variaveis e constantes, basicamente a variavel eu consigo atribuir novo valor, uma constante nao é possivel atribuir um novo valor a ela
+*** Quanto mais você usar Const(constante) melhor, tudo aquilo que não faz sentido mudar use constante
+<- Feito variaveisEConstantes.js que esta na pasta fundamentos ->
+
+16 - Aprendendo sobre Tipagem Fraca
+* JS é uma tipagem dinamica ou fracamente tipada
+<- Feito tipagemFraca.js que esta na pasta fundamentos ->

@@ -1,0 +1,4 @@
+
+* console.log()	//uso para exibir a variavel ou o texto no node ou code
+* typeof		//uso para verificar qual tipo de dado é a variavel, se um Number, String etc.
+* 

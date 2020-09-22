@@ -1,0 +1,6 @@
+Dicas
+
+
+Usar um IDE direto no navegador
+https://jsfiddle.net/
+
